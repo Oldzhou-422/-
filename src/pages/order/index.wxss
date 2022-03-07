@@ -1,0 +1,7 @@
+.order {
+  padding-bottom: 50px;
+}
+.order .tabs {
+  position: sticky;
+  top: 0;
+}

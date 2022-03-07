@@ -1,0 +1,6 @@
+.am-tab-bar {
+  height: auto;
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+}

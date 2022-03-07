@@ -1,0 +1,1 @@
+export { useImgHook } from "./useImgHook/index"

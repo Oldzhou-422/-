@@ -1,0 +1,7 @@
+.swiper-wrapper {
+  list-style: none;
+}
+.swiper-wrapper .swiper-img {
+  height: 15rem;
+  width: 100%;
+}

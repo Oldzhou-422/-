@@ -1,0 +1,9 @@
+.detail-wrapper .info {
+  padding: 1rem 1rem;
+  display: flex;
+  flex-flow: row wrap;
+}
+.detail-wrapper .info .info-pro {
+  width: 50%;
+  margin-bottom: 1rem;
+}

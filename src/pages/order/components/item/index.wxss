@@ -1,0 +1,42 @@
+.list-item {
+  height: 9rem;
+  width: 100%;
+  background-color: #fff;
+  border: #eee 1px solid;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.list-item .item-img {
+  width: 5.5rem;
+  height: 5.5rem;
+  margin-left: 1rem;
+}
+.list-item .item-info {
+  margin-left: 1rem;
+  width: 7rem;
+  height: 5.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.list-item .item-info .item-title {
+  font-weight: 600;
+}
+.list-item .item-info .item-price {
+  font-weight: 600;
+}
+.list-item .item-pay {
+  margin-left: 2.5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.list-item .item-pay .btn {
+  width: 4rem;
+  height: 2rem;
+  font-size: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

@@ -1,0 +1,18 @@
+.search {
+  padding: 0 0.5rem;
+}
+.search .search-time {
+  margin-top: 0.3rem;
+  padding: 0.6rem 1rem;
+  background-color: #fff;
+}
+.search .search-time .time {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  font-size: 1rem;
+}
+.search .btn {
+  margin-top: 0.5rem;
+}
